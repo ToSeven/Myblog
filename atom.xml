@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CourseReminder</title>
+  
+  <subtitle>do more know more be more</subtitle>
+  <link href="http://www.toseven.top/atom.xml" rel="self"/>
+  
+  <link href="http://www.toseven.top/"/>
+  <updated>2020-10-20T02:23:57.354Z</updated>
+  <id>http://www.toseven.top/</id>
+  
+  <author>
+    <name>ToSeven</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Homepage</title>
+    <link href="http://www.toseven.top/2020/10/20/homepage/"/>
+    <id>http://www.toseven.top/2020/10/20/homepage/</id>
+    <published>2020-10-20T02:11:30.000Z</published>
+    <updated>2020-10-20T02:23:57.354Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h3 id="add-project-homepage"><a href="#add-project-homepage" class="headerlink" title="add project homepage"></a>add project homepage</h3><p><img src="https://i.loli.net/2020/10/20/HRfv2wWUADtl5Fc.jpg" alt="1.jpg"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>coursereminder</title>
+    <link href="http://www.toseven.top/2020/10/13/coursereminder/"/>
+    <id>http://www.toseven.top/2020/10/13/coursereminder/</id>
+    <published>2020-10-13T03:48:52.000Z</published>
+    <updated>2020-10-13T03:59:12.088Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p> 新型课程提醒软件<br>用户从信息系统导入课表或者手动输入课表，后端解析这个课表文件，在快要上课的时候，推送课程信息。</p><p>基础版功能：</p><p>1.上课前提醒学生课程时间地点。</p><p>2.提前多长时间提醒可自定义设置。</p><p>3.可为课程添加作业及它的ddl，在ddl前进行按设置的提醒。</p><p>4.在上课前一起推送课程和要交的作业，以防学生忘带。</p><p>5.提供地点支持，可选步行、骑行等交通方式，计算通勤时间，减少迟到率。</p><p>进阶版功能：</p><p>1.加入每日其他任务页面，时间默认是今日，可选往后日期，可添加任务描述可完成时间段花费时长及地点。良好的将课程和日常琐事区分开来同时又无需学生再使用一个待办事项软件。</p><p>2.智能规划路径选择。比如两节课程之间会经过院办，院办正好有一个任务，提醒学生可选完成该任务，以免来回跑的情况发生。</p><p>需求分析</p><p>随着大学生的活动越来越丰富，容易在繁忙中有疏忽的时候。现在市面上的课表软件大多只能提醒课程时间。而市面上的todolist软件又难以和我们的课程信息有机结合，常常课程作业和日常琐事混在一起，不便于区分。对于时间概念不是特别好的同学，通勤时间是自定义多长时间前提醒的最少时间限制。同时还可以提供快速导航服务，在刚开学的时候，学生还不清楚教室位置信息时，十分有用。进阶版的智能规划路径功能对提高学生的办事效率十分有效。</p><p>主要使用语言：java</p><p>工具：IntelliJ IDEA &amp; Android Studio</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
